@@ -1,0 +1,11 @@
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\bin\Debug\WordPadCopyCat.exe.config
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\bin\Debug\WordPadCopyCat.exe
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\bin\Debug\WordPadCopyCat.pdb
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.csproj.AssemblyReference.cache
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.Form1.resources
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.Properties.Resources.resources
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.csproj.GenerateResource.cache
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.csproj.CoreCompileInputs.cache
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.exe
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.pdb
+C:\Users\61vah\source\repos\WordPadCopyCat\WordPadCopyCat\obj\Debug\WordPadCopyCat.ColoursForm.resources
